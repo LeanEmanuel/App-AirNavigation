@@ -353,6 +353,7 @@ public class StruniLeandroMainEjercicio2 {
         boolean exit = false;
         int user = 0;
         do {
+
             System.out.println(mensaje);
             if (input.hasNextInt()) {
                 user = input.nextInt();
