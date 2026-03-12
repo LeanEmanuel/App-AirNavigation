@@ -26,7 +26,7 @@ El programa ya arranca con algunos datos de prueba cargados para poder usar el m
 
 ## Objetivo del ejercicio
 
-La idea del proyecto es practicar fundamentos, no vender humo:
+La idea del proyecto es practicar fundamentos:
 
 <p align="center">
 
